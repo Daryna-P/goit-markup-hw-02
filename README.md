@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-homework 2
+# goit-markup-hw-01
+https://daryna-p.github.io/goit-markup-hw-01/
